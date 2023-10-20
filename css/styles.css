@@ -8,8 +8,8 @@
 .ms-5 {
      margin-left: 3em !important;
 }
-.landing-img {
-     
+.categories > img {
+     border-radius: 100%;
 }
 .Collectionsrow {
      padding-bottom: 30px;
