@@ -1,8 +1,13 @@
+* {
+     font-family: 'Stoke', serif;
+}
 .logo {
      height: 13rem;
      width: 13rem;
 }
-
 .ms-5 {
      margin-left: 3em !important;
+}
+.landing-img {
+     
 }
