@@ -21,6 +21,7 @@
 .Collections {
      padding-left: 120px;
      padding-right: 120px;
+     padding-bottom: 50px;
 }
 .CollectionsImg {
      height: 390px;
@@ -32,4 +33,23 @@
 }
 .collect {
      padding-left: 80px;
+}
+.circle {
+     border-radius: 50%;
+     height: 100%;
+     width: 50%;
+}
+.Kiesha {
+     padding-left: 350px;
+}
+.aboutP {
+     line-height: 1.6;
+     padding-right: 60px;
+}
+.about {
+     padding-left: 320px;
+     padding-bottom: 50px;
+}
+.about-bg{
+     background-color: #4B072D;
 }
