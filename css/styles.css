@@ -69,3 +69,15 @@
 .bg{
      background-color: #FFF0F9;
 }
+.Customize{
+     padding-left: 300px;
+     padding-bottom: 170px;
+}
+.clear-text{
+     color: #FFEFF8;
+     -webkit-text-stroke-color: #4B072D;
+     -webkit-text-stroke-width: 1.5px;
+}
+.Purple-text{
+     color: #4B072D;
+}
