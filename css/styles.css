@@ -69,6 +69,16 @@
 .bg{
      background-color: #FFF0F9;
 }
+.footer {
+     background-color: #E5CBDB;
+}
+.footer-list {
+     list-style-type: none;
+}
+.socials li {
+     list-style-type: none;
+     display: inline;
+}
 .Customize{
      padding-left: 300px;
      padding-bottom: 170px;
