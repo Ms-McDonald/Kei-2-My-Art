@@ -1,0 +1,30 @@
+.cust{
+    padding-bottom: 25px;
+}
+.Upload{
+    width: 400px;
+    height: 650px;
+}
+label{
+    display: block;
+    width: 200px;
+    background: #DCC56E;
+    color: black;
+    padding: 12px;
+    margin: auto;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input{
+    display: none;
+}
+.Purple-text{
+    color: #4B072D;
+}
+.Customize{
+    padding-left: 300px;
+    padding-bottom: 50px;
+}
+.bg{
+    background-color: #FFF0F9;
+}
