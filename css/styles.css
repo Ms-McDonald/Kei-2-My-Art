@@ -86,10 +86,7 @@
      list-style-type: none;
      display: inline;
 }
-.Customize{
-     padding-left: 300px;
-     padding-bottom: 170px;
-}
+
 .clear-text{
      color: #FFEFF8;
      -webkit-text-stroke-color: #4B072D;
@@ -98,3 +95,4 @@
 .Purple-text{
      color: #4B072D;
 }
+
