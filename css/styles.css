@@ -5,6 +5,11 @@
      height: 13rem;
      width: 13rem;
 }
+.line {
+     width: 100%;
+     border-bottom: 3px #4B072D solid;
+     padding: 0 10px;
+}
 .ms-5 {
      margin-left: 3em !important;
 }
@@ -54,6 +59,8 @@
 .aboutP {
      line-height: 1.6;
      padding-right: 60px;
+     -webkit-text-stroke-color: none;
+     -webkit-text-stroke-width: 0;
 }
 .about {
      padding-left: 320px;
