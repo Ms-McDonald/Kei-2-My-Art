@@ -22,9 +22,21 @@ input{
     color: #4B072D;
 }
 .Customize{
-    padding-left: 300px;
-    padding-bottom: 50px;
+    padding-left: 390px;
+    padding-bottom: 20px;
 }
 .bg{
     background-color: #FFF0F9;
+}
+.update-btn{
+    margin-left: 95px;
+}
+.Customize-img{
+    padding-left: 300px;
+    padding-bottom: 30px;
+}
+.trans{
+    background-color: transparent;
+    border-radius: 10px;
+    border: 2px #DCC56E solid;
 }
