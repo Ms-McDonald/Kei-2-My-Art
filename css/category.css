@@ -5,3 +5,12 @@
 body {
     background-color: #4B072D;
 }
+.category li {
+    list-style-type: none;
+    margin: 3em;
+}
+.cat-img {
+    background-color: lightgray;
+    height: 18rem;
+    margin: 2rem;
+}
