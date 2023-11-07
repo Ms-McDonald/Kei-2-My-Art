@@ -1,5 +1,6 @@
 * {
      font-family: 'Stoke', serif;
+
 }
 .logo {
      height: auto;
@@ -32,14 +33,16 @@
      padding-bottom: 50px;
 }
 .CollectionsImg {
-     height: 390px;
-     width: 390px;
+     height: auto;
+     width: auto;
+     min-height: 50px;
+     min-width: 50px;
      outline: 1.5px solid #DCC56E;
      border-radius: 3%;
 }
 .CollectionsImgL {
-     height: 460px;
-     width: 390px;
+     height: auto;
+     width: auto;
      outline: 1.5px solid #DCC56E;
      border-radius: 3%;
 }
@@ -58,21 +61,25 @@
      padding-top: 60px;
 }
 .aboutP {
+     margin-top: 50px;
      line-height: 1.6;
-     padding-right: 60px;
      -webkit-text-stroke-color: none;
      -webkit-text-stroke-width: 0;
+     font-size: clamp(.75rem, 2.5vw, 3rem);
+     min-height: 350px;
+     max-height: 375px;
+
 }
 .about {
-     padding-left: 320px;
-     padding-bottom: 100px;
+     padding-bottom: 150px;
+     padding-top: 75px;
 }
 .about-bg{
      padding-top: 40px;
      background-color: #4B072D;
      color: #FFEFF8;
      -webkit-text-stroke-color: black;
-     -webkit-text-stroke-width: 1.5px;
+     -webkit-text-stroke-width: .5px;
 }
 .bg{
      background-color: #FFF0F9;
@@ -98,4 +105,8 @@
 }
 .nav-item {
      font-size: clamp(.1rem, 3vw, 2rem);
+}
+
+.brown{
+     font-size: clamp(1.5rem, 2.5vw, 4rem);
 }
