@@ -48,12 +48,13 @@
      padding-bottom: 40px;
 }
 .circle {
-     border-radius: 50%;
-     height: 95%;
-     width: 50%;
+     border-radius: 330px;
+     height: auto;
+     width: 375px;
+     margin-left: 15px;
+     aspect-ratio: 1 / 1;
 }
 .Kiesha {
-     padding-left: 350px;
      padding-top: 60px;
 }
 .aboutP {
