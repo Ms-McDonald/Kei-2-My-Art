@@ -2,8 +2,8 @@
      font-family: 'Stoke', serif;
 }
 .logo {
-     height: 13rem;
-     width: 13rem;
+     height: auto;
+     width: clamp(9em, 8vw, 20em);
 }
 .line {
      width: 100%;
@@ -96,4 +96,6 @@
 .Purple-text{
      color: #4B072D;
 }
-
+.nav-item {
+     font-size: clamp(.1rem, 3vw, 2rem);
+}
