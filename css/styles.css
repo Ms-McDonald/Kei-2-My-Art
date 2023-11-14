@@ -91,6 +91,7 @@
 }
 .footer {
      background-color: #E5CBDB;
+     padding-left: 1px;
 }
 .footer-list {
      list-style-type: none;
@@ -116,8 +117,19 @@
      font-size: clamp(1.5rem, 2.5vw, 4rem);
 }
 .footerhead{
-
+     font-size: clamp(.85rem, 2.5vw, 2.9rem);
 }
 .footerp{
-     
+     font-size: clamp(.5rem, 2.5vw, 1.75rem);
+}
+.socials{
+     padding-left: 0;
+}
+.footerlogo{
+     height: 100%;
+     width: clamp(30px, 4vw, 400px);
+}
+.Category{
+     padding-left: 1rem;
+     font-size: clamp(1.5rem, 2.5vw, 4rem);
 }
