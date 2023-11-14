@@ -1,0 +1,6 @@
+.bg-body-tertiary {
+    --bs-bg-opacity: 0;
+}
+.navbar-brand img {
+    max-width: 10vw;
+}
