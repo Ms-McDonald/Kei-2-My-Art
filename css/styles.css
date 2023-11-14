@@ -28,26 +28,32 @@
      padding-right: 15px;
 }
 .Collections {
-     padding-left: 120px;
-     padding-right: 120px;
+     padding-left: 1rem;
+     padding-right: 1rem;
      padding-bottom: 50px;
 }
 .CollectionsImg {
      height: auto;
-     width: auto;
-     min-height: 50px;
-     min-width: 50px;
+     width: 100%;
+     min-width: 70px;
+     min-height: 70px;
      outline: 1.5px solid #DCC56E;
      border-radius: 3%;
 }
 .CollectionsImgL {
      height: auto;
-     width: auto;
+     width: 100%;
+     min-width: 70px;
+     min-height: 90px;
      outline: 1.5px solid #DCC56E;
      border-radius: 3%;
 }
 .collect {
-     padding-left: 80px;
+     padding-left: 135px;
+     padding-bottom: 40px;
+}
+.About-head{
+     padding-left: 125px;
      padding-bottom: 40px;
 }
 .circle {
@@ -58,10 +64,9 @@
      aspect-ratio: 1 / 1;
 }
 .Kiesha {
-     padding-top: 60px;
+     padding-top: 2 rem;
 }
 .aboutP {
-     margin-top: 50px;
      line-height: 1.6;
      -webkit-text-stroke-color: none;
      -webkit-text-stroke-width: 0;
@@ -71,7 +76,7 @@
 
 }
 .about {
-     padding-bottom: 150px;
+     padding-bottom:3rem;
      padding-top: 75px;
 }
 .about-bg{
@@ -109,4 +114,10 @@
 
 .brown{
      font-size: clamp(1.5rem, 2.5vw, 4rem);
+}
+.footerhead{
+
+}
+.footerp{
+     
 }
